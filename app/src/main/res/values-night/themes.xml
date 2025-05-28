@@ -1,0 +1,12 @@
+<resources>
+    <!-- Tema para modo oscuro -->
+    <style name="Theme.NutriTrack.Dark" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorPrimaryVariant">@color/md_theme_primaryContainer</item>
+        <item name="colorSecondary">@color/md_theme_secondary</item>
+        <item name="android:colorBackground">@color/md_theme_background</item>
+        <item name="android:textColorPrimary">@color/md_theme_onBackground</item>
+        <item name="android:statusBarColor">@color/md_theme_surface</item>
+    </style>
+</resources>

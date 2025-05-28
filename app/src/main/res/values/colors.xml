@@ -1,0 +1,22 @@
+<resources>
+    <!-- Colores Primarios -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Material Design Colors -->
+    <color name="md_theme_primary">#D1BCFE</color>
+    <color name="md_theme_onPrimary">#37265D</color>
+    <color name="md_theme_primaryContainer">#4E3D75</color>
+    <color name="md_theme_onPrimaryContainer">#EADDFF</color>
+    <color name="md_theme_secondary">#F8BB71</color>
+    <color name="md_theme_onSecondary">#472A00</color>
+    <color name="md_theme_secondaryContainer">#663E00</color>
+    <color name="md_theme_onSecondaryContainer">#FFDDB9</color>
+    <color name="md_theme_background">#FFFFFF</color>
+    <color name="md_theme_onBackground">#141218</color>
+    <color name="md_theme_surface">#FFFFFF</color>
+    <color name="md_theme_onSurface">#141218</color>
+</resources>
