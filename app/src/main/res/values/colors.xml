@@ -19,4 +19,6 @@
     <color name="md_theme_onBackground">#141218</color>
     <color name="md_theme_surface">#FFFFFF</color>
     <color name="md_theme_onSurface">#141218</color>
+    <color name="md_theme_error">#B00020</color>
+    <color name="md_theme_onError">#FFFFFF</color>
 </resources>

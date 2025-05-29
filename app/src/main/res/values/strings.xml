@@ -54,4 +54,10 @@
     <!-- Preferences -->
     <string name="preferences_title">Preferencias</string>
     <string name="go_to_main">Ir al Menú Principal</string>
+    <string name="ir_al_home">Ir al Home</string>
+
+    <string name="edit_food_title">Editar Alimento</string>
+    <string name="edit_food">Editar Alimento</string>
+    <string name="food_list">Lista de alimentos</string>
+    <string name="delete_food">Eliminar alimento</string>
 </resources>

@@ -22,12 +22,24 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this, RecoverPasswordActivity::class.java))
         }
 
+        findViewById<Button>(R.id.btn_ir_home).setOnClickListener {
+            startActivity(Intent(this, HomeActivity::class.java))
+        }
+
         findViewById<Button>(R.id.btn_tracking).setOnClickListener {
             startActivity(Intent(this, TrackingActivity::class.java))
         }
 
         findViewById<Button>(R.id.btn_add_food).setOnClickListener {
             startActivity(Intent(this, AddFoodActivity::class.java))
+        }
+
+        findViewById<Button>(R.id.btn_food_list).setOnClickListener {
+            startActivity(Intent(this, FoodListActivity::class.java))
+        }
+
+        findViewById<Button>(R.id.btn_edit_food).setOnClickListener {
+            startActivity(Intent(this, EditFoodActivity::class.java))
         }
 
         findViewById<Button>(R.id.btn_preferences).setOnClickListener {

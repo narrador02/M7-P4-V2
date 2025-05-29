@@ -25,11 +25,23 @@
             android:exported="false" />
 
         <activity
+            android:name=".EditFoodActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".FoodListActivity"
+            android:exported="false" />
+
+        <activity
             android:name=".ConsumptionDatesActivity"
             android:exported="false" />
 
         <activity
             android:name=".LoginActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".HomeActivity"
             android:exported="false" />
 
         <activity

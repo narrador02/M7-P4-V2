@@ -32,6 +32,11 @@
             android:text="@string/recover_password" />
 
         <Button
+            android:id="@+id/btn_ir_home"
+            style="@style/ButtonStyle"
+            android:text="@string/ir_al_home" />
+
+        <Button
             android:id="@+id/btn_dates"
             style="@style/ButtonStyle"
             android:text="@string/dates" />
@@ -45,6 +50,16 @@
             android:id="@+id/btn_add_food"
             style="@style/ButtonStyle"
             android:text="@string/add_food" />
+
+        <Button
+            android:id="@+id/btn_food_list"
+            style="@style/ButtonStyle"
+            android:text="@string/food_list" />
+
+        <Button
+            android:id="@+id/btn_edit_food"
+            style="@style/ButtonStyle"
+            android:text="@string/edit_food" />
 
         <Button
             android:id="@+id/btn_preferences"
